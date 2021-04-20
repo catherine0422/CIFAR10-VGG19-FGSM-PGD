@@ -10,7 +10,7 @@ dataset: CIFAR10
 
 model: VGG19
 
-Adversary: FGSM, PGD
+Adversary: FGSM,  PGD,  CW
 
 ##  3. Usage
 
